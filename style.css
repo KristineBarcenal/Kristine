@@ -1,0 +1,41 @@
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #304438;
+}
+.btn{
+    padding: 12px 50px;
+    font-size: 20px ;
+    font-family: 'Times New Roman', Times serif;
+    border-radius: 0;
+    transition: all ease-in .5s;
+}
+.btn-brand{
+    background-color: #304438;
+    color: #ffffff
+}
+.btn-brand:hover{
+    border:2px solid #304438;
+}
+.navbar  .nav-link{
+    font-family: 'Times New Roman', Times serif;
+    font-size: 18px;
+    color: #304438;
+    text-transform: uppercase; 
+}
+
+#banner{
+    background: url('kristine.jpg');
+    height: 90vh;
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#banner h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+    
+}
+
